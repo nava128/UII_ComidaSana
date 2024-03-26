@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+Code for a simple ui screen created with flutter.
+Curved Design
+https://github.com/rajayogan/flutterui-curveddesigns/tree/master
+
+Design credit - https://dribbble.com/shots/6687016-Foody-Food-by-Subscription
+
+How do I code this - https://youtu.be/K1uH_SN4X0w
